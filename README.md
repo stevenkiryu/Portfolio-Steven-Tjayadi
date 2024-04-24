@@ -16,13 +16,12 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 - Tools : UiPath Studio, UiPath cloud Orchestrator, Microsoft Excel, Microsoft SQL Server, Python, Web Development (UiPath Apps & ASP.NET)
 - Output : [Certificate Valid Data Account](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/7a7d79b8-7420-480a-bb14-3b94a786ed84)
 
-# Web Scrapping - SINTA Dosen Untar
+# Web Scrapping - SINTA Dosen & Kemendikbud Untar
 
 - This project use UiPath Studio with selector method for web Scraping in UiPath. This method also use Python with OCR (Optical Character Recognition) with Tesseract OCR.
   This review get 2200 data of the Accuracy 80 % of Untar Dosen include the different subject like (Economics, IT, Law, etc).
-- Tools : UiPath Studio, Python (TvExtract), Microsoft Excel
-- Sample Project :
-- Output :
+- Tools : UiPath Studio, Python (TvExtract), Microsoft Excel, Microsoft SQL Server
+- Output : 
 
 # ICStar Hackathon 2021 Indosat Use-Case : Employee Onboarding System Automation 
 
