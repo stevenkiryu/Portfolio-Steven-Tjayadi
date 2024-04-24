@@ -2,7 +2,7 @@
 
 # Data Engineer Portfolio 
 
-# Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering/Machine Learning courses or self development projects, each of which covers essential skills and techniques for Data Engineer.
+Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering/Machine Learning courses or self development projects, each of which covers essential skills and techniques for Data Engineer.
 
 # Laptop Recommendation System with Recurrent Neural Network
 
