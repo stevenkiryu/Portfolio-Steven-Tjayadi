@@ -9,7 +9,7 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 - This project use Python with the open-source Tensorflow for using Recurrent Neural Network and Text Processing. This app has also use UiPath Studio for Scraping the laptop data and QA Dialogue data. This app has been tested by 30 Participants with each review of the Recommendation laptop chatbot and has already been accepted by ICITDA organization. This app has been created by myself and with my co-author Mrs Viny Christanti Mawardi.
 - Tools : Python, Tensorflow, UiPath Studio, Flask, SQLite, Web Development (HTML,CSS,Javascript)
 - Sample Project :
-- Output : 
+- Output : [Virtual Assistant Kiryubot](http://valaptop.labirariset.com).
 
 # Certification Validation
 
