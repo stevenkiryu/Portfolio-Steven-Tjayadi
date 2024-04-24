@@ -26,4 +26,17 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 - Sample Project :
 - Output :
 
+# ICStar Hackathon 2021 Indosat Use-Case : Employee Onboarding System Automation 
 
+- This project use UiPath Studio to automate the Account. The Master data gathering use Microsoft Excel to store the data. This project was created together with Jeremy Moses, Jauharul Arifin, and myself. The estimate automation model in each employee account is 3 minutes for each 1 employee and the 13 process inside of it.
+- Tools : UiPath Studio, Microsoft Excel, UML Diagram Maker, Microsoft Outlook, Drawio (Diagram.NET)
+- Sample Project :
+- Output :
+
+  
+# Other Project 
+
+Power Automate - Approval Purchase Order Automation from Dynamic 365 Finance & Operations 
+Dynamic 365 Finance & Operations (X++) - Fixing Manufacturing Allocation 
+Dynamic 365 Finance & Operations (X++) - Sales Contract Report Versioning
+Dynamic 365 Finance & Operations (X++) - 
