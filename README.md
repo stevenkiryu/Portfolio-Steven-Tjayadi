@@ -15,7 +15,6 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 - This project use UiPath Studio with the help of OCR packages with Python which is one of the computer vision method to gather the text data. This project was also get helped with Cynthia Natalie in creating a Levenstein Distance Algorithm in UiPath Studio to Matching the text data in Certificate to prevent error of words. The Estimate of automation in each Student Account is 15 seconds depends of how many uploaded student certificate.
 - Tools : UiPath Studio, UiPath cloud Orchestrator, Microsoft Excel, Microsoft SQL Server, Python, Web Development (UiPath Apps & ASP.NET)
 - Output : [Certificate Valid Data Account](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/7a7d79b8-7420-480a-bb14-3b94a786ed84)
-)
 
 # Web Scrapping - SINTA Dosen Untar
 
@@ -29,8 +28,8 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 
 - This project use UiPath Studio to automate the Account. The Master data gathering use Microsoft Excel to store the data. This project was created together with Jeremy Moses, Jauharul Arifin, and myself. The estimate automation model in each employee account is 3 minutes for each 1 employee and the 13 process inside of it.
 - Tools : UiPath Studio, Microsoft Excel, UML Diagram Maker, Microsoft Outlook, Drawio (Diagram.NET)
-- Sample Project :
-- Output :
+- Output : [Sample Output of getting Employee Facilities](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/1e5228f4-3ba2-42e2-9e69-ab18e38170d7)
+
 
   
 # Other Project 
