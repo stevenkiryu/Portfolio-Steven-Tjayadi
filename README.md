@@ -8,15 +8,14 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 
 - This project use Python with the open-source Tensorflow for using Recurrent Neural Network and Text Processing. This app has also use UiPath Studio for Scraping the laptop data and QA Dialogue data. This app has been tested by 30 Participants with each review of the Recommendation laptop chatbot and has already been accepted by ICITDA organization. This app has been created by myself and with my co-author Mrs Viny Christanti Mawardi.
 - Tools : Python, Tensorflow, UiPath Studio, Flask, SQLite, Web Development (HTML,CSS,Javascript)
-- Sample Project :
 - Output : [Virtual Assistant Kiryubot](http://valaptop.labirariset.com).
 
 # Certification Validation
 
 - This project use UiPath Studio with the help of OCR packages with Python which is one of the computer vision method to gather the text data. This project was also get helped with Cynthia Natalie in creating a Levenstein Distance Algorithm in UiPath Studio to Matching the text data in Certificate to prevent error of words. The Estimate of automation in each Student Account is 15 seconds depends of how many uploaded student certificate.
 - Tools : UiPath Studio, UiPath cloud Orchestrator, Microsoft Excel, Microsoft SQL Server, Python, Web Development (UiPath Apps & ASP.NET)
-- Sample Project :
-- Output : 
+- Output : [Certificate Valid Data Account](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/7a7d79b8-7420-480a-bb14-3b94a786ed84)
+)
 
 # Web Scrapping - SINTA Dosen Untar
 
