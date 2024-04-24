@@ -36,7 +36,7 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
   
 # Other Project 
 
-Power Automate - Approval Purchase Order Automation from Dynamic 365 Finance & Operations 
-Dynamic 365 Finance & Operations (X++) - Fixing Manufacturing Allocation 
-Dynamic 365 Finance & Operations (X++) - Sales Contract Report Versioning
-Dynamic 365 Finance & Operations (X++) - 
+- Power Automate - Approval Purchase Order Automation from Dynamic 365 Finance & Operations 
+- Dynamic 365 Finance & Operations (X++) - Fixing Manufacturing Allocation 
+- Dynamic 365 Finance & Operations (X++) - Sales Contract Report Versioning
+- Dynamic 365 Finance & Operations (X++) - 
