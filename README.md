@@ -39,4 +39,12 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 - Dynamic 365 Finance & Operations Infrastructure - Renew the SSH Expired Certificate for accessing Dynamic 365 finance & Operations
 - Machine Learning (Python)                       - Batik Image Classification
 - Machine Learning (Python)                       - Clustering the News  
-- SQL (Oracle)                                    - Hotel with SQL Oracle APEX 
+- SQL (Oracle)                                    - Hotel with SQL Oracle APEX
+
+# Certifications 
+
+1. [Presenter Achievement ICITDA UII](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/75cf1e91-61db-4ed8-b7de-b7006b68ad5f)
+2. [Sertifikat ICStar Hackathon 2021](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/fa341bf1-f8e5-492c-b9f8-8dd2e62a952e)
+3. [Sertifikat RPA Training](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/e0302e01-6018-4d18-9a18-b256abb2ba06)
+
+
