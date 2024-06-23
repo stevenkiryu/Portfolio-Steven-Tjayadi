@@ -18,10 +18,10 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 
 # Web Scrapping - SINTA Dosen & Kemendikbud Untar
 
-- This project use UiPath Studio with selector method for web Scraping in UiPath. This method also use Python with OCR (Optical Character Recognition) with Tesseract OCR.
+- This project use UiPath Studio with using the selector method for web Scraping in UiPath. This method also use OCR (Optical Character Recognition) with Tesseract OCR from Python Language.
   This review get 2200 data of the Accuracy 80 % of Untar Dosen include the different subject like (Economics, IT, Law, etc).
 - Tools : UiPath Studio, Python (TvExtract), Microsoft Excel, Microsoft SQL Server
-- Output : 
+- Output : [Dosen Untar Result](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/7a7d79b8-7420-480a-bb14-3b94a786ed84)
 
 # ICStar Hackathon 2021 Indosat Use-Case : Employee Onboarding System Automation 
 
