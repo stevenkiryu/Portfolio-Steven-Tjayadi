@@ -46,5 +46,6 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 1. [Presenter Achievement ICITDA UII](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/75cf1e91-61db-4ed8-b7de-b7006b68ad5f)
 2. [Sertifikat ICStar Hackathon 2021](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/fa341bf1-f8e5-492c-b9f8-8dd2e62a952e)
 3. [Sertifikat RPA Training](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/e0302e01-6018-4d18-9a18-b256abb2ba06)
+4. [Certificate Scraping Inixindo Python Selenium](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/4bf2f012-0741-4ebb-8b17-5b28e73ca573)
 
 
