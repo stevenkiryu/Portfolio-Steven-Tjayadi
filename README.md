@@ -6,6 +6,11 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 
 # Dockerize ETL Pipeline
 
+- This project are used from Digital Skola Final Project that used a API Data Source from PIKOBAR. It used Orchestrator with Apache Airflow to automatically insert data and table and storing into Data Warehouse. It used PostgreSQL to store a data into Data Warehouse. The step of using this method in Apache Airflow are Gathering Data, Generate Dimension and Fact Data, And Insert a record to store into Data Warehouse. 
+- Tools                : Apache Airflow, DBeaver, Docker Desktop, Microsoft Excel, Microsoft Visual Studio Code
+- Programming Language : Python, PostgreSQL, Powershell, Docker
+- Output               : 
+
 # Laptop Recommendation System with Recurrent Neural Network
 
 - This project use Python with the open-source Tensorflow for using Recurrent Neural Network and Text Processing. This app has also use UiPath Studio for Scraping the laptop data and QA Dialogue data. This app has been tested by 30 Participants with each review of the Recommendation laptop chatbot and has already been accepted by ICITDA organization. This app has been created by myself and with my co-author Mrs Viny Christanti Mawardi.
