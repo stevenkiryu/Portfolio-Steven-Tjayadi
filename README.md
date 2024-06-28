@@ -4,6 +4,8 @@
 
 Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering/Machine Learning courses or self development projects, each of which covers essential skills and techniques for Data Engineer.
 
+# Dockerize ETL Pipeline
+
 # Laptop Recommendation System with Recurrent Neural Network
 
 - This project use Python with the open-source Tensorflow for using Recurrent Neural Network and Text Processing. This app has also use UiPath Studio for Scraping the laptop data and QA Dialogue data. This app has been tested by 30 Participants with each review of the Recommendation laptop chatbot and has already been accepted by ICITDA organization. This app has been created by myself and with my co-author Mrs Viny Christanti Mawardi.
